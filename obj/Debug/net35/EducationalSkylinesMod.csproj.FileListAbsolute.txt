@@ -1,0 +1,5 @@
+C:\Users\Jan\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\EducationalSkylinesMod\obj\Debug\net35\EducationalSkylinesMod.csproj.AssemblyReference.cache
+C:\Users\Jan\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\EducationalSkylinesMod\obj\Debug\net35\EducationalSkylinesMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jan\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\EducationalSkylinesMod\obj\Debug\net35\EducationalSkylinesMod.AssemblyInfoInputs.cache
+C:\Users\Jan\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\EducationalSkylinesMod\obj\Debug\net35\EducationalSkylinesMod.AssemblyInfo.cs
+C:\Users\Jan\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\EducationalSkylinesMod\obj\Debug\net35\EducationalSkylinesMod.csproj.CoreCompileInputs.cache
