@@ -1,0 +1,15 @@
+C:\Users\Jan\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\EducationalSkylinesMod\bin\Debug\EducationalSkylinesMod.dll
+C:\Users\Jan\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\EducationalSkylinesMod\bin\Debug\EducationalSkylinesMod.pdb
+C:\Users\Jan\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\EducationalSkylinesMod\bin\Debug\Assembly-CSharp.dll
+C:\Users\Jan\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\EducationalSkylinesMod\bin\Debug\ColossalManaged.dll
+C:\Users\Jan\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\EducationalSkylinesMod\bin\Debug\ICities.dll
+C:\Users\Jan\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\EducationalSkylinesMod\bin\Debug\UnityEngine.dll
+C:\Users\Jan\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\EducationalSkylinesMod\bin\Debug\UnityEngine.UI.dll
+C:\Users\Jan\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\EducationalSkylinesMod\bin\Debug\PopsApiWrapper.dll
+C:\Users\Jan\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\EducationalSkylinesMod\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Jan\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\EducationalSkylinesMod\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Jan\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\EducationalSkylinesMod\obj\Debug\EducationalSkylinesMod.csproj.AssemblyReference.cache
+C:\Users\Jan\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\EducationalSkylinesMod\obj\Debug\EducationalSkylinesMod.csproj.CoreCompileInputs.cache
+C:\Users\Jan\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\EducationalSkylinesMod\obj\Debug\EducationalSkylinesMod.csproj.CopyComplete
+C:\Users\Jan\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\EducationalSkylinesMod\obj\Debug\EducationalSkylinesMod.dll
+C:\Users\Jan\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\EducationalSkylinesMod\obj\Debug\EducationalSkylinesMod.pdb
